@@ -13,6 +13,7 @@
 
 ## 🔗 Enlaces Importantes
 
+- Presentación del proyecto: [Project Slides](https://view.genial.ly/6275ade2b2633400185b7c6f/presentation-default-prediction-parametric-model)
 - El Notebook del proyecto está disponible aquí: [Project Notebook](https://github.com/Chesar832/Deteccion-de-siniestros-con-modelo-parametrico/blob/master/Notebook.ipynb)
 - Los datos empleados esán disponibles a continuación: [Data](https://github.com/Chesar832/Deteccion-de-siniestros-con-modelo-parametrico/tree/master/data)
 
